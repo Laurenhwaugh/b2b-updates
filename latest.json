@@ -1,0 +1,13 @@
+{
+  "version": "0.12.0",
+  "minServer": "0.12.0",
+  "notes": "Baseline: matches the v0.12.0 install",
+  "studio": {
+    "file": "studio-0.12.0.html",
+    "sha256": "ba28519ab8de06fa38d4d9728fdcc3ef41f8bdcacce1f306c5015aaad5465149"
+  },
+  "playbooks": {
+    "file": "playbooks-0.12.0.json",
+    "sha256": "9bde08149aa1d3f1fac3ac4faf6f6d86f9a13b4a76089499560d15e09f7088b1"
+  }
+}
