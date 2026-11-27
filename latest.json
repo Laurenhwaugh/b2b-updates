@@ -1,13 +1,13 @@
 {
-  "version": "0.12.1",
-  "minServer": "0.12.0",
-  "notes": "Research: separate brief box; research and angles now follow the brief",
+  "version": "0.13.1",
+  "minServer": "0.13.1",
+  "notes": "Research: brand research, objections, TikTok top ads, and what the brand already posts",
   "studio": {
-    "file": "studio-0.12.1.html",
-    "sha256": "9675ea868dc0d00fd3909697a030f88f5aac585f67790a1ecb5ffb300eaa76f4"
+    "file": "studio-0.13.1.html",
+    "sha256": "e9172a3fd6024e6de6b2d2cf54633da86dc89ff72328bc27600d6f3838779e23"
   },
   "playbooks": {
-    "file": "playbooks-0.12.1.json",
-    "sha256": "4d15453bfd1860314cae857e12d13b74186711e5f8b0c83dd740a6d6f8c23b04"
+    "file": "playbooks-0.13.1.json",
+    "sha256": "0a114afa195b4ad132eb2892c853658022be07d2b76e19d39a75edee3599be86"
   }
 }
